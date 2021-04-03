@@ -1,0 +1,14 @@
+.footer{
+	width: 100%;
+    bottom: 0;
+    position: absolute;
+    background: black;
+    color: white;
+    /*font-size: 20px;*/
+    text-align: center;
+}
+.content{
+	width: 90%;
+	margin:auto;
+	/*background:aliceblue; */
+}
